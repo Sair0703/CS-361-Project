@@ -7,4 +7,8 @@ Install the required packages by running the following command: npm install expr
 Start the microservice by running the following command: node supplements.js
 Open a web browser and navigate to http://localhost:3000/supplements. This sends a GET request to the /supplements endpoint, which triggers the getExerciseSupplements() function to retrieve the data on five exercise supplements, and return it as a JSON object.
 You should see the data on the five exercise supplements displayed in your web browser as a JSON object.
- ![image](https://github.com/Sair0703/CS-361-Project/assets/107892029/5b33953d-9f14-446d-899f-3b63ef87b2ae)
+
+Here is my UML Diagram Below:
+
+
+![image](https://github.com/Sair0703/CS-361-Project/assets/107892029/5b33953d-9f14-446d-899f-3b63ef87b2ae)
